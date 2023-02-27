@@ -1,3 +1,4 @@
+/*
 let miles;
 let gallons;
 let mpg;
@@ -33,3 +34,4 @@ function getMpg(){
 }
 
 handleCallback();
+*/
